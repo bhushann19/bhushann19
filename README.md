@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bhushann19
--  I’m interested in Machine Learning and Artificial Intelligence
--  I’m looking to collaborate on Machine Learning and Artificial Intelligence
+-  I’m interested in Machine Learning, Artificial Intelligence and looking forward to collaborate in this field.
 -  How to reach me : - bhushan.nimje@outlook.com
 
 <!---
