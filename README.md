@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bhushann19
 -  I’m interested in Machine Learning and Artificial Intelligence
--  I’m currently learning Data Structure And Algorithm
 -  I’m looking to collaborate on Machine Learning and Artificial Intelligence
 -  How to reach me : - bhushan.nimje@outlook.com
 
